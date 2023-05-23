@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oleg
+# 👋 Hi, I’m Oleg
 - 👀 I’m interested in web development and data science
 - 🌱 I’m currently learning javascript, node.js
 - 💞️ I’m looking to collaborate on building a web application
