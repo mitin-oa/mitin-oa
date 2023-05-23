@@ -5,7 +5,7 @@
 - 📫 You can reach me: https://t.me/OlegMitin
 # Languages and Tools
 
-HTML CSS VSCode Sass ReactJS Git Figma Figma NodeJS
+## HTML CSS VSCode Sass ReactJS Git Figma NodeJS
 <!---
 mitin-oa/mitin-oa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
